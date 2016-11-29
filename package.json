@@ -1,0 +1,22 @@
+{
+  "name": "mailgun-slack-webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slackgun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node slackgun.js"
+  },
+  "keywords": [
+    "slack",
+    "mailgun",
+    "webhooks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-slack-mailgun": "^0.7.2"
+  }
+}
