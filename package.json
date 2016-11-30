@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.0.0",
     "express": "^4.14.0",
     "node-slack-mailgun": "^0.7.2"
   }
